@@ -1,0 +1,24 @@
+{
+  "cSpell.words": [
+    "acks",
+    "adduser",
+    "codepaths",
+    "Connectionerror",
+    "currentuser",
+    "depl",
+    "mongosh",
+    "nats",
+    "nextclient",
+    "nocheck",
+    "Nodeport",
+    "pgticketsorg",
+    "signin",
+    "signout",
+    "Skaffold",
+    "tsbuildinfo",
+    "Udemy"
+  ],
+  "yaml.schemas": {
+    "kubernetes://schema/apps/v1%40deployment": "file:///c%3A/Users/a1bg521154/Desktop/Test/Microservices%20with%20Node%20JS%20and%20React/ticketing/infra/k8s/auth-depl.yaml"
+  }
+}
