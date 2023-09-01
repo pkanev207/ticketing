@@ -1,6 +1,9 @@
 name: tests-auth
 on:
-  pull_request
+  pull_request:
+    # run the job only if the changes are to the auth directory
+    paths:
+      - "auth/**"
 jobs:
   build:
     runs-on: ubuntu-latest
