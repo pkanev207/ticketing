@@ -6,7 +6,7 @@
   "scripts": {
     "start": "ts-node-dev --poll src/index.ts",
     "test": "jest --no-cache",
-    "greet": "ts-node-dev greeter"
+    "greet": "ts-node-dev greeter.ts"
   },
   "jest": {
     "preset": "ts-jest",
